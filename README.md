@@ -1,0 +1,1 @@
+# capcut-create-account
